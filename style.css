@@ -1,0 +1,22 @@
+.para1{
+    background-color:blueviolet;
+
+}
+.para2{
+    background-color:yellowgreen;
+
+}
+.para3{
+    background-color:brown;
+}
+
+@media all and (min-width:801px){
+
+
+    .container p{
+        width:30%;
+        float:left;
+        padding:10px;
+    }
+
+}
